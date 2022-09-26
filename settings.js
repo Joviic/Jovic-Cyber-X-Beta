@@ -46,21 +46,21 @@ global.location = "Nigeria, Kaduna, Zaria" //ur location
 global.owner = ['2348097206501']
 global.ownertag = '2348097206501' //ur tag number
 global.botnumber = '2349023834443' //Add your Bot Number For Log
-global.botname = 'JOVIC CYBER-X BETA' //ur bot name
+global.botname = 'JOVIC Cyber-X🤖' //ur bot name
 global.ig = "https://wa.me/2348097206501?text=Hi,%20I%20would%20like%20to%20own%20a%20bot" //your theme url which will be displayed on whatsapp
 global.myweb = "https://licitbizinfo.blogspot.com" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
+global.sc = 'https://github.com/joviic' //script link
 global.linkz = 'https://wa.me/2348097206501?text=Hi,%20I%20would%20like%20to%20own%20a%20bot'
 global.reactmoji = "🤩 " //ur menu react emoji
 global.themeemoji = "🫣" //ur theme emoji
 global.packname = "Jovic Sticker Pack" //ur sticker watermark packname
 global.author = "JOVIC" //ur sticker watermark author
-global.footer = "🤩🤩"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "This is JOVIC CYBER-X, I'm alive🤩"
+global.footer = "JOVIC Cyber-X🤖"
+global.aliveimg ="https://telegra.ph/file/8fd13da0491768a083049.jpg"
+global.allmenuimg ="https://telegra.ph/file/8a1844654beb6a311219f.jpg"
+global.welcomeimg= "https://telegra.ph/file/8fd13da0491768a083049.jpg"
+global.gbyeimg = "https://telegra.ph/file/f70320f38612906944614.jpg"
+global.alivemsg = "Good things come to people who wait, but better things come to those who go out and get them."
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
