@@ -43,7 +43,7 @@ global.socialm = "GitHub: Joviic" //ur github or insta name
 global.location = "Nigeria, Kaduna, Zaria" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['2348097206501']
+global.owner = ['08097206501']
 global.ownertag = '08097206501' //ur tag number
 global.botnumber = '2349023834443' //Add your Bot Number For Log
 global.botname = 'JOVIC Cyber-X🤖' //ur bot name
