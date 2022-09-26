@@ -44,7 +44,7 @@ global.location = "Nigeria, Kaduna, Zaria" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['2348097206501']
-global.ownertag = '2348097206501' //ur tag number
+global.ownertag = '08097206501' //ur tag number
 global.botnumber = '2349023834443' //Add your Bot Number For Log
 global.botname = 'JOVIC Cyber-X🤖' //ur bot name
 global.ig = "https://wa.me/2348097206501?text=Hi,%20I%20would%20like%20to%20own%20a%20bot" //your theme url which will be displayed on whatsapp
