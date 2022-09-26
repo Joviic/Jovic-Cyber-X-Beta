@@ -60,7 +60,7 @@ global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "I'm alive🤩"
+global.alivemsg = "This is JOVIC CYBER-X, I'm alive🤩"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['2348097206501'] //ADD YOU NUMBER
+global.premium = ['2349023834443'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
