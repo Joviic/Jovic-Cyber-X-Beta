@@ -49,7 +49,7 @@ global.botnumber = '2349023834443' //Add your Bot Number For Log
 global.botname = 'JOVIC CYBER-X BETA' //ur bot name
 global.ig = "https://wa.me/2348097206501?text=Hi,%20I%20would%20like%20to%20own%20a%20bot" //your theme url which will be displayed on whatsapp
 global.myweb = "https://licitbizinfo.blogspot.com" //ur website to be displayed
-global.sc = 'https://github.com/joviic' //script link
+global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://wa.me/2348097206501?text=Hi,%20I%20would%20like%20to%20own%20a%20bot'
 global.reactmoji = "🤩 " //ur menu react emoji
 global.themeemoji = "🫣" //ur theme emoji
